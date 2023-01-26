@@ -1,0 +1,10 @@
+name: software_eng
+channels:
+  - defaults
+dependencies:
+  - python
+  - scikit-learn
+  - pandas
+  - jupyterlab
+  - numpy
+prefix: /Users/aaryaprasannan/opt/anaconda3/envs/software_eng
